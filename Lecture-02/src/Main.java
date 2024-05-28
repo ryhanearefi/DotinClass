@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        String name="Amirhossein";
-        String family="Mohammadi";
+        String name="ًReyhane";
+        String family="Arefi";
         int age=34;
         String gender="Male";
         System.out.println("My Name "+name+"\n"+"Family :"+family+"\n"+

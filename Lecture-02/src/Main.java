@@ -3,11 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        String name="ًReyhane";
+        String name="Reyhane";
         String family="Arefi";
         int age=34;
         String gender="Male";
-        System.out.println("My Name "+name+"\n"+"Family :"+family+"\n"+
+        System.out.println("My Name :"+name+"\n"+"Family :"+family+"\n"+
                 "Age:"+age+"\n"+
                 "Gender :"+gender);
     }

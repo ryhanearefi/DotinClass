@@ -17,35 +17,33 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String S = "XXIL";
         for (int i = 0; i < S.length(); i++) {
-            String a = String.valueOf(S.charAt(i));
+               switch (S.charAt(i)) {
 
-            switch (a) {
-
-                case "I":
+                case 'I':
                     sum = sum + 1;
                     break;
 
-                case "V":
+                case 'V':
                     sum = sum + 5;
                     break;
 
-                case "X":
+                case 'X':
                     sum = sum + 10;
                     break;
 
-                case "L":
+                case 'L':
                     sum = sum + 50;
                     break;
 
-                case "C":
+                case 'C':
                     sum = sum + 100;
                     break;
 
-                case "D":
+                case 'D':
                     sum = sum + 500;
                     break;
 
-                case "M":
+                case 'M':
                     sum = sum + 1000;
                     break;
 

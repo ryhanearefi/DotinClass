@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc285041-b0b7-44a4-808d-7c496e523b31" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Tamrin44/Tamrin4/src/Deposit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tamrin44/Tamrin4/src/Deposit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tamrin4/Tamrin4.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721739141632</updated>
       <workItem from="1721739142709" duration="1672000" />
-      <workItem from="1721741441086" duration="8559000" />
+      <workItem from="1721741441086" duration="8561000" />
     </task>
     <servers />
   </component>

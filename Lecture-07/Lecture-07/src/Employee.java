@@ -31,7 +31,7 @@ public class Employee {
          if(this.salary>thatEmployee.salary) {
            System.out.println(this.name+"has more income");
     } else if (thatEmployee.salary>this.salary) {
-             System.out.println(thatEmployee.name+"has more salary");
+             System.out.println(thatEmployee.name+" has more salary");
          }
          else {
             System.out.println("income are equal");

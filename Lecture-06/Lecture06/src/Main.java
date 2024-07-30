@@ -5,7 +5,7 @@ public class Main {
 
         Book1 math = new Book1("darya", "nahid", "man", "khjdfbhkdfhn", "95");
         math.displayinfo();
-        math.printTitleEquality(new Book1("math", "nahid", "man", "khjdfbhkdfhn", "95"));
+        math.printTitleEquality(new Book1("kiki", "nahid", "man", "khjdfbhkdfhn", "95"));
 
 
     }

@@ -16,7 +16,7 @@ public class Main {
 
        // System.out.println(X+I);
        // System.out.println(L+X);
-        int sum= IntegerValue()
+     
         System.out.println(String.format("X: %s,I: %s,I: %S,L: %s",X,I,I,L));
         System.out.println();
 

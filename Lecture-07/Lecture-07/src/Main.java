@@ -24,7 +24,7 @@ public class Main {
 //        Rectangle.area();
 //        Rectangle.perimeter();
 
-        Employee employee=new Employee("Reyahe","IT",20);
+        Employee employee=new Employee("Reyhane","IT",20);
         Employee employee2=new Employee("Ali","IT",10);
 
          employee.printEmployeeDetails();

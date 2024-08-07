@@ -4,7 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f76c51-0ac3-4580-901d-d4eee125ae6b" name="Changes" comment="init21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +14,6 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="untitledtest" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="untitledtest" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -36,9 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2kKLdvRKWZ2J7oYIPYS0db3vAMq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +32,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/reyhane/Desktop/git_DotinClass/Lecture-09",
     "nodejs_package_manager_path": "npm",
@@ -64,20 +49,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19f76c51-0ac3-4580-901d-d4eee125ae6b" name="Changes" comment="init21" />
-      <created>1723027412918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723027412918</updated>
-      <workItem from="1723027413943" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="init21" />
-    <option name="LAST_COMMIT_MESSAGE" value="init21" />
   </component>
 </project>
